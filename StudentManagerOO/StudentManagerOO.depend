@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1385559568 source:f:\c++\studentmanageroo\main.cpp
+	"iostream"
+	<cstring>
+
